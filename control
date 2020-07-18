@@ -1,0 +1,10 @@
+Package: xyz.hgrunt.notapirate
+Name: NotAPirate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Bypass Apollo's anti-piracy check
+Maintainer: IntriguingTiles
+Author: IntriguingTiles
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: https://apt.hgrunt.xyz/depiction.html?package=NotAPirate
